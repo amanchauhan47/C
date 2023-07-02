@@ -1,2 +1,4 @@
-./array
-./pointer-array
+# git ignore all binary files
+array
+pointer-array
+
