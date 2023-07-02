@@ -1,5 +1,5 @@
 #include<stdio.h>
-//                  Some important stuff to know.
+//                  Some important stuff to know about.
 int main()
 {
     int array[100];
