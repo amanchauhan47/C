@@ -1,5 +1,5 @@
 #include<stdio.h>
-//                      Concate C program                                                       A-MAN
+//                      Concate C program (Self Created)                                               A-MAN
 int concate(char *str1, char *str2);
 int main()
 {
