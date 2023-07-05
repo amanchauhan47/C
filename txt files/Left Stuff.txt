@@ -55,7 +55,7 @@ how to initialise char array using pointer              (done.)
 *(ptr+i) and *ptr+i, Both are different NOT same.       (done.)
 array = &array[0]    Both are equal.
 *(ptr+i) = i[ptr] = ptr[i];     All are same.
-
+int return by function vs multiple values return using void 
 
 
 // Projects
