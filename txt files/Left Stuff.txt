@@ -1,0 +1,76 @@
+check a number is binary or not
+sorting
+count number of digit
+sum the number of digit
+lcm 
+ncr 
+gcd 
+hcf 
+create gets and puts function simultaneously
+self power function                                     (done.)
+find unique no. in array                                (done.)
+find the odd number in array                            (done.)
+find maximum no. of array                               (done.)
+find minimum no. of array                               (done.)
+#include<stdio.h> vs #include"stdio.h" 
+multiplication of matrix by determinant method
+case and continue statement revise 
+take random number from 0-20 every time Program
+print calender in c 
+concate str function 
+array with function
+ek string me 'a' kitni bar ata hai
+string.h function self create most of them as possible
+take input with this format 12-4-65 print each separately
+explore stdlib.h
+string with function
+my get function                                         (done.)
+my get function using scan and print with return value.                                         
+binary complement program                               (done.)
+leap year program                                       (done.)
+recursion
+sum of 2D array
+sum of 3d Array
+guessing game again                                     (done.)
+count array
+error in c
+typecasting in c
+implicit conversion
+structure to store name and roll no. of student of 1st and 2nd year
+explicit conversion
+implicit declaration
+explicit declaration
+debugging in c
+pointer is an array
+classes
+main function
+headerfiles
+all homework screenshot questions
+fibonacci no.                                           (done.)
+armstrong no.
+how to initialise int array using pointer               
+ascii to number simple                                  
+number to ascii simple                                  (done.)
+how to initialise char array using pointer              (done.)
+*(ptr+i) and *ptr+i, Both are different NOT same.       (done.)
+array = &array[0]    Both are equal.
+*(ptr+i) = i[ptr] = ptr[i];     All are same.
+
+
+
+// Projects
+
+create our own header file with all my programs in function
+electricity bill converter
+decimal to binary
+minute into second program
+dollar to inr program                                   (done.)
+c paper questions       
+create a program to generate a wordlist and also store in a file.
+calloc and malloc       
+calculator          
+atm machine 
+unit converter  
+calender   show program
+matrix calculator   
+how to create reverse array program with argument with return value
