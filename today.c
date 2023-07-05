@@ -9,3 +9,10 @@ int main()
     
     return 0;
 }
+void printstring(char str[])
+{
+    for(int i=0;str[i] != '\0'; i++)
+    {
+        printf("%c",str[i]);
+    }
+}
