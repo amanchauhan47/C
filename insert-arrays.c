@@ -29,8 +29,10 @@ void main()
     //where element needs to be inserted
     n=n+1;
     for(i = n-1; i >= pos; i--)
+    {
         array[i]=array[i-1];
- 
+    }
+       
     array[pos-1]=x; //Insert the element x on the specified position
  
     //print the new array

@@ -3,8 +3,8 @@
 int concate(char *str1, char *str2);
 int main()
 {
-    char str1[100] = "Hello";
-    char str2[100] = "World";
+    char str1[100] = "Aman";
+    char str2[100] = " Chauhan";
 
     concate(str1,str2);
     puts(str1);

@@ -1,5 +1,5 @@
 #include<stdio.h>
-//          take string and print it (Self Created)
+//          take string and print it (Self Created) but not a string
 int main()
 {   char i,l;
     char array[1000];

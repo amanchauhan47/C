@@ -25,10 +25,11 @@ int main()
         printf("\t%d",array[i]);
     }
 
+    pos = pos-1;
     printf("\nNew Array: ");
     for(int i=0;i<size+1;i++)
     {
-        if(i>=pos-1){
+        if(i >= pos){
             a = array[i];
             array[i] = num;
             num = a;
