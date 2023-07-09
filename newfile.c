@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    char str[100] = "Hello";
-    char str2[100] = " World";
+    char str[100] = "Aman ";
+    char str2[100] = "Chauhan";
     int j;
 
     for(int i=0;1;i++)
