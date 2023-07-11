@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include<stdio.h>    
+//                         Function Return is Not working  (void vs int vs pointer)
 void alter(int a){
    a = 9;
 }

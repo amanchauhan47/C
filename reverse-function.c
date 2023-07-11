@@ -26,11 +26,23 @@ int main()
 }
 int reverse(int array[],int n){
 
-    for(int i=n-1;i>=0;i--)
-    { int j=0;
-        array[j]=array[i]; 
-        //printf("%d\t",array[i]);
-      j++;
+    int rev[100],j = n-1;
+
+    for(int i=0;i<n;i++)
+    {
+        rev[j] = array[i];
+        /*
+            4 = 0
+            3 = 1
+            2 = 2
+            1 = 3
+            0 = 4
+        */
+        j--;
     }
-    return *array; 
+    // for(int i=0;i<n;i++)
+    // {
+    //     array[i] = rev[i];
+    // }
+    return *rev; 
 }

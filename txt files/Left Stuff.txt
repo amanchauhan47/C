@@ -16,6 +16,7 @@ find minimum no. of array                               (done.)
 multiplication of matrix by determinant method
 case and continue statement revise 
 take random number from 0-20 every time Program
+make a compiler in c
 print calender in c 
 concate str function 
 array with function
