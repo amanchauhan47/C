@@ -1,2 +1,4 @@
-ch = fgetc(fptr);
-    printf("%c",ch);
+ if(name[i] = 32)
+        {
+            i--;
+        }
