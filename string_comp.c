@@ -2,8 +2,8 @@
 //                                     Compare Two strings are equal or not (Self Created);
 int main()
 {
-    char str1[50] = "Aman";
-    char str2[50] = "Aman";
+    char str1[50] = "Aman Chauhan";
+    char str2[50] = "65man Chauhan";
     int i;
 
    for(i=0; str1[i]!='\0'; i++)
