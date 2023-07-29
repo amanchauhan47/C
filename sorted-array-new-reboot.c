@@ -1,12 +1,24 @@
 #include<stdio.h>
+//                                      Array Sorting with another method (Self Created & Generalised)                            29-07-23
 int main()
-{
-    int array[5] = {5,4,3,2,1};
-    int i,j,c;
+{   
+    int i,j,c,size;
 
-    for(j=0;j<4;j++)
+    printf("Enter the size of Array: ");
+    scanf("%d",&size);
+
+    int array[size];
+    printf("Enter the elements of Array: ");
+    //input array
+    for(int i=0;i<size;i++)
     {
-        for(i=j;i<4;i++)
+        scanf("%d",&array[i]);
+    }
+
+    //sorting array
+    for(j=0; j<size-1 ;j++)
+    {
+        for(i=j; i<size-1 ;i++)
         {
             if(array[j] > array[i+1])
             {
@@ -16,7 +28,8 @@ int main()
             }
         }
     }
-    for(int i=0;i<5;i++)
+    //output array
+    for(int i=0;i<size;i++)
     {
         printf("%d\t",array[i]);
     }
