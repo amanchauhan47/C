@@ -1,4 +1,4 @@
-//              With argument with return type (Reverse array) to be continued..
+//              With argument with return type (Reverse array)
 #include<stdio.h>
 int reverse(int array[], int n);
 int main()
@@ -27,22 +27,17 @@ int main()
 int reverse(int array[],int n){
 
     int rev[100],j = n-1;
+ 
+    for(int i=0;i<n;i++)
+    {
+        rev[j] = array[i];       
+        j--;
+    }
 
     for(int i=0;i<n;i++)
     {
-        rev[j] = array[i];
-        /*
-            4 = 0
-            3 = 1
-            2 = 2
-            1 = 3
-            0 = 4
-        */
-        j--;
+        array[i] = rev[i];
     }
-    // for(int i=0;i<n;i++)
-    // {
-    //     array[i] = rev[i];
-    // }
-    return *rev; 
+
+    return *array; 
 }
