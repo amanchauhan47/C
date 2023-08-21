@@ -2,4 +2,6 @@
 *
 !*.c*
 !*.txt*
+!/C Programs (Windows)
+!/txt files
 

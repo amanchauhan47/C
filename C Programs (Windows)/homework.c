@@ -1,0 +1,14 @@
+/*
+Armstrong number
+recursion
+arrays
+pointer
+structure
+Functions
+Classes in C
+prime number with new logic
+hcf
+lcm
+ncr
+gcd
+calculator*/
