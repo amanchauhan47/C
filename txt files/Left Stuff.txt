@@ -69,7 +69,7 @@ dollar to inr program                                   (done.)
 c paper questions       
 create a program to generate a wordlist and also store in a file.
 calloc and malloc       
-calculator          
+nonstop calculator          
 atm machine 
 unit converter  
 calender   show program
